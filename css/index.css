@@ -1,0 +1,7 @@
+:root {
+    --main-color: #ffa3a4;
+}
+
+.btn-success {
+    background-color: var(--main-color);
+}
